@@ -2,7 +2,6 @@ let todoInput = document.querySelector(".todo-input");
 let submitTodo = document.querySelector(".todo-button");
 let todoList = document.querySelector(".todo-list");
 
-
 // Event listeners
 
 submitTodo.addEventListener("click", addTodo)
